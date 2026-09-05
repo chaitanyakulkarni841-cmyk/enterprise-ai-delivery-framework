@@ -1,5 +1,5 @@
 # enterprise-ai-delivery-framework
-I combine business discovery, technology assessment, and change management with hands-on AI implementation and evaluation. This repository demonstrates my approach to taking a departmental problem from discovery to a maintainable, adopted solution.
+HI, I am Chaitanya. I am an AI product manager with background in AI automation & enablement. I combine business discovery, technology assessment, and change management with hands-on AI implementation and evaluation. This repository demonstrates my approach to taking a departmental problem from discovery to a maintainable, adopted solution.
 
 ## Enterprise AI delivery portfolio
 
@@ -9,13 +9,6 @@ I combine business discovery, technology assessment, and change management with 
 
 This is a PDF-first portfolio. Visual reports, presentations, diagrams, spreadsheets, and workflow exports belong in the labeled folders below. The short README pages provide navigation and upload instructions; the main reports can be PDFs with embedded images.
 
-## My T-shaped capability
-
-| Breadth: business-to-adoption ownership | Depth: reliable AI workflows |
-|---|---|
-| Business discovery, process analysis, economics, product decisions, technology assessment, delivery, stakeholder communication, and adoption | Integrations, prompt/context design, evaluation, guardrails, testing, release management, and monitoring |
-
-The [capability map](capability-map.md) connects these areas to the evidence to be published. My Management of Technology perspective is expressed through business cases, technology trade-offs, delivery decisions, and organizational adoption—not a tool list alone.
 
 ## Start here
 
