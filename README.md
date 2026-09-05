@@ -26,3 +26,5 @@ You can click the link on each stage starting from business discovery to busines
 | **08 · Deployment & Operations** | Version control, release decisions, monitoring, incident recovery, maintenance, and operating costs. | In preparation |
 | **09 · Adoption & Enablement** | User guides, reviewer playbooks, training, feedback, ownership, and handover. | In preparation |
 | **10 · Business Outcomes & Improvement** | Measured results, adoption, benefits, lessons learned, and the next investment priorities. | In preparation |
+
+![Enterprise AI delivery lifecycle and my value proposition](images/AI_delivery.png)
