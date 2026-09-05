@@ -16,7 +16,7 @@ This portfolio contains my delivery frameworks and a practical example based on 
 | Portfolio section | Focus | PDF |
 |---|---|---|
 | **00 · Project Context & Mandate** | Overview of real world situations prevalent in organizations implementing AI based on my experience. Sets context for all sections below | [View PDF](<./pdfs/00 -  Project Context & Mandate.pdf>) |
-| **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | [View PDF](<./pdfs/01_Business_Discovery(1).pdf>) |
+| **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | [View PDF](<./pdfs/01_Business_Discovery.pdf>) |
 | **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | [View PDF](<./pdfs/02_Process_Analysis_Baseline_Clean_Final.pdf>) |
 | **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | [View PDF](<./pdfs/03_Opportunity_Assessment_Visual.pdf>) |
 | **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | [View PDF](<./pdfs/04_Product_and_Solution_Definition_Revised.pdf>) |
