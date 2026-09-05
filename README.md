@@ -10,12 +10,12 @@ My work connects business teams and technical delivery: understanding how people
 
 ## Enterprise AI Delivery Portfolio
 
-This portfolio contains my delivery frameworks and a practical example based on my experience of implementation at an organization, organized around the full implementation lifecycle. It combines my experience working at New York University IT division, and a regulatory compliance startup in New York. 
-You can click the link on each stage starting from business discovery to business outcomes and improvement to view the pdf demonstrating approach, and view reusable frameworks. 
+This portfolio contains my delivery frameworks and a practical example based on my experience of implementation at an organization, organized around the full implementation lifecycle. It combines my approach and frameworks derived from over 2 years of experience working at New York University IT division, and a regulatory compliance startup in New York. You can click the link on each stage starting from business discovery to business outcomes and improvement to view the pdf demonstrating approach, and view reusable frameworks. 
 
 
 | Portfolio section | Focus | PDF |
 |---|---|---|
+| **00 · Project Context & Mandate** | Overview of real world situations prevalent in organizations implementing AI based on my experience. Sets context for all sections below | In preparation |
 | **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | In preparation |
 | **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | In preparation |
 | **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | In preparation |
