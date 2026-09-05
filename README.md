@@ -19,7 +19,7 @@ This portfolio contains my delivery frameworks and a practical example based on 
 | **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | [View PDF](<./pdfs/01_Business_Discovery.pdf>) |
 | **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | [View PDF](<./pdfs/02_Process_Analysis_Baseline_Clean_Final.pdf>) |
 | **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | [View PDF](<./pdfs/03_Opportunity_Assessment_Visual.pdf>) |
-| **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | [View PDF](<./pdfs/04_Product_and_Solution_Definition_Revised.pdf>) |
+| **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | [View PDF](<./pdfs/04_Product_and_Solution_Definition.pdf |
 | **05 · Architecture & Guardrails** | Technology trade-offs, integrations, data access, human oversight, and risk controls. | [View PDF](<./05_Architecture_Guardrails.pdf>) |
 | **06 · Workflow Implementation** | Make workflows, prompts, structured outputs, routing, integrations, and exception handling. | In preparation |
 | **07 · Evaluation & Testing** | Model and prompt comparisons, quality benchmarks, cost and latency, regression tests, and failure analysis. | [View PDF](<./pdfs/07_Evaluation_Testing.pdf>)  |
