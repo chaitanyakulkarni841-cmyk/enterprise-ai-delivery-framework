@@ -1,44 +1,28 @@
-# enterprise-ai-delivery-framework
-HI, I am Chaitanya. I am an AI product manager with background in AI automation & enablement. I combine business discovery, technology assessment, and change management with hands-on AI implementation and evaluation. This repository demonstrates my approach to taking a departmental problem from discovery to a maintainable, adopted solution.
+# Chaitanya Kulkarni
 
-## Enterprise AI delivery portfolio
+**AI Product Manager | Enterprise AI Adoption & Agentic Systems**
 
-**Chaitanya Kulkarni | AI Product Manager — Enterprise AI Adoption & Agentic Systems**
+I’m an AI Product Manager with a background in AI automation, enterprise enablement, and LLM evaluation across India and the United States. With a **Master’s in Management of Technology from New York University**, I combine business discovery, technology assessment, and product thinking with hands-on workflow implementation and evaluation.
 
-**Status: folder structure ready; portfolio documents and implementation evidence will be added progressively.** A folder or upload checklist is not a claim that its work is complete.
+My work connects business teams and technical delivery: understanding how people work, identifying worthwhile automation opportunities, defining requirements, designing solutions, evaluating model performance, and supporting rollout and adoption. I take a practical approach to choosing between conventional automation, AI assistance, and agentic workflows—balancing business value with quality, cost, risk, and maintainability.
 
-This is a PDF-first portfolio. Visual reports, presentations, diagrams, spreadsheets, and workflow exports belong in the labeled folders below. The short README pages provide navigation and upload instructions; the main reports can be PDFs with embedded images.
+**My focus is end-to-end ownership: from a well-defined business problem to a reliable workflow, measurable outcomes, and the playbooks a team needs to use and maintain the solution.**
 
+## Enterprise AI Delivery Portfolio
 
-## Start here
+Delivery frameworks and an applied email-classification and triage case study, organized around the full implementation lifecycle.
 
-| What would you like to see? | Open |
-|---|---|
-| How to upload a PDF, image, workbook, or workflow | [Upload guide](UPLOAD-GUIDE.md) |
-| My repeatable delivery methods and blank templates | [Framework](framework/README.md) |
-| An illustrative BA-first departmental discovery example | [Enterprise Architecture example](examples/enterprise-architecture-discovery/README.md) |
-| The applied email-classification and triage case | [Brightwheel case study](case-studies/brightwheel-email-triage/README.md) |
-| Reusable implementation patterns, when tested | [Components](components/README.md) |
-| Portfolio-wide graphics and editable visual sources | [Shared assets](assets/README.md) |
-| Executive overview and full-portfolio PDF exports | [PDF exports](exports/README.md) |
+*PDF chapters are in preparation.*
 
-## Follow the delivery journey
-
-| Stage | Reusable framework and templates | Applied case-study PDFs |
+| Portfolio section | Focus | PDF |
 |---|---|---|
-| 01 — Discovery and alignment | [Framework](framework/01-discovery/README.md) | [Case](case-studies/brightwheel-email-triage/docs/01-discovery/README.md) |
-| 02 — Process and baseline | [Framework](framework/02-process-baseline/README.md) | [Case](case-studies/brightwheel-email-triage/docs/02-process-baseline/README.md) |
-| 03 — Opportunity assessment | [Framework](framework/03-opportunity-assessment/README.md) | [Case](case-studies/brightwheel-email-triage/docs/03-opportunity-assessment/README.md) |
-| 04 — Solution definition | [Framework](framework/04-solution-definition/README.md) | [Case](case-studies/brightwheel-email-triage/docs/04-solution-definition/README.md) |
-| 05 — Architecture and governance | [Framework](framework/05-architecture-governance/README.md) | [Case](case-studies/brightwheel-email-triage/docs/05-architecture-governance/README.md) |
-| 06 — Implementation | [Framework](framework/06-implementation/README.md) | [Case](case-studies/brightwheel-email-triage/docs/06-implementation/README.md) |
-| 07 — Evaluation and testing | [Framework](framework/07-evaluation-testing/README.md) | [Case](case-studies/brightwheel-email-triage/docs/07-evaluation-testing/README.md) |
-| 08 — Release and operations | [Framework](framework/08-release-operations/README.md) | [Case](case-studies/brightwheel-email-triage/docs/08-release-operations/README.md) |
-| 09 — Adoption and handover | [Framework](framework/09-adoption-handover/README.md) | [Case](case-studies/brightwheel-email-triage/docs/09-adoption-handover/README.md) |
-| 10 — Outcomes and improvement | [Framework](framework/10-outcomes-improvement/README.md) | [Case](case-studies/brightwheel-email-triage/docs/10-outcomes-improvement/README.md) |
-
-## Evidence and publication
-
-Frameworks explain the method. Examples illustrate it. Case studies show completed work and its evidence. Keep observed results, assumptions, reconstructions, and planned extensions separate. See the case's [evidence-status page](case-studies/brightwheel-email-triage/evidence-status.md).
-
-This is a public repository. Publish only material you have permission to share. Remove personal/customer data, credentials, private endpoints, and confidential information from documents, screenshots, spreadsheets, and Make exports.
+| **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, and business alignment. | In preparation |
+| **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | In preparation |
+| **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | In preparation |
+| **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | In preparation |
+| **05 · Architecture & Guardrails** | Technology trade-offs, integrations, data access, human oversight, and risk controls. | In preparation |
+| **06 · Workflow Implementation** | Make workflows, prompts, structured outputs, routing, integrations, and exception handling. | In preparation |
+| **07 · Evaluation & Testing** | Model and prompt comparisons, quality benchmarks, cost and latency, regression tests, and failure analysis. | In preparation |
+| **08 · Deployment & Operations** | Version control, release decisions, monitoring, incident recovery, maintenance, and operating costs. | In preparation |
+| **09 · Adoption & Enablement** | User guides, reviewer playbooks, training, feedback, ownership, and handover. | In preparation |
+| **10 · Business Outcomes & Improvement** | Measured results, adoption, benefits, lessons learned, and the next investment priorities. | In preparation |
