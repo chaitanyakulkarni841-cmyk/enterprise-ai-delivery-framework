@@ -15,7 +15,7 @@ This portfolio contains my delivery frameworks and a practical examples based on
 
 | Portfolio section | Focus | PDF |
 |---|---|---|
-| **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, and business alignment. | In preparation |
+| **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | In preparation |
 | **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | In preparation |
 | **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | In preparation |
 | **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | In preparation |
