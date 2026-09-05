@@ -2,17 +2,16 @@
 
 **AI Product Manager | Enterprise AI Adoption & Agentic Systems**
 
-I’m an AI Product Manager with a background in AI automation, enterprise enablement, and LLM evaluation across India and the United States. With a **Master’s in Management of Technology from New York University**, I combine business discovery, technology assessment, and product thinking with hands-on workflow implementation and evaluation.
+I’m an AI Product Manager with a background in AI automation, enterprise enablement, and LLM evaluation across India and the United States. With a **Master’s in Management of Technology from New York University** and **Specialization in Agentic AI from Johns Hopkins University** , I combine business discovery, technology assessment, and product thinking with hands-on workflow implementation and evaluation.
 
 My work connects business teams and technical delivery: understanding how people work, identifying worthwhile automation opportunities, defining requirements, designing solutions, evaluating model performance, and supporting rollout and adoption. I take a practical approach to choosing between conventional automation, AI assistance, and agentic workflows—balancing business value with quality, cost, risk, and maintainability.
 
-**My focus is end-to-end ownership: from a well-defined business problem to a reliable workflow, measurable outcomes, and the playbooks a team needs to use and maintain the solution.**
+**My own is end-to-end ownership: from identifying business problem to building reliable workflows with measurable outcomes, and the playbooks a team needs to use and maintain the solution.**
 
 ## Enterprise AI Delivery Portfolio
 
-Delivery frameworks and an applied email-classification and triage case study, organized around the full implementation lifecycle.
+This portfolio contains my delivery frameworks and a practical examples based on my implementation at an organization, organized around the full implementation lifecycle.
 
-*PDF chapters are in preparation.*
 
 | Portfolio section | Focus | PDF |
 |---|---|---|
