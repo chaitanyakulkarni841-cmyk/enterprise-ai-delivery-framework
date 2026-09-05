@@ -2,15 +2,16 @@
 
 **AI Product Manager | Enterprise AI Adoption & Agentic Systems**
 
-I’m an AI Product Manager with a background in AI automation, enterprise enablement, and LLM evaluation across India and the United States. With a **Master’s in Management of Technology from New York University** and **Specialization in Agentic AI from Johns Hopkins University** , I combine business discovery, technology assessment, and product thinking with hands-on workflow implementation and evaluation.
+I am an AI Product Manager with a background in AI automation, enterprise enablement, and LLM evaluation across India and the United States. With a **Master’s in Management of Technology from New York University** and **Specialization in Agentic AI from Johns Hopkins University** , I combine business discovery, technology assessment, and product thinking with hands-on workflow implementation and evaluation.
 
 My work connects business teams and technical delivery: understanding how people work, identifying worthwhile automation opportunities, defining requirements, designing solutions, evaluating model performance, and supporting rollout and adoption. I take a practical approach to choosing between conventional automation, AI assistance, and agentic workflows—balancing business value with quality, cost, risk, and maintainability.
 
-**My own is end-to-end ownership: from identifying business problem to building reliable workflows with measurable outcomes, and the playbooks a team needs to use and maintain the solution.**
+**I like to own end-to-end ownership: from identifying business problem to building reliable workflows with measurable outcomes, and the playbooks a team needs to use and maintain the solution.**
 
 ## Enterprise AI Delivery Portfolio
 
-This portfolio contains my delivery frameworks and a practical examples based on my implementation at an organization, organized around the full implementation lifecycle.
+This portfolio contains my delivery frameworks and a practical example based on my experience of implementation at an organization, organized around the full implementation lifecycle. It combines my experience working at New York University IT division, and a regulatory compliance startup in New York. 
+You can click the link on each stage starting from business discovery to business outcomes and improvement to view the pdf demonstrating approach, and view reusable frameworks. 
 
 
 | Portfolio section | Focus | PDF |
