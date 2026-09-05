@@ -17,14 +17,14 @@ This portfolio contains my delivery frameworks and a practical example based on 
 |---|---|---|
 | **00 · Project Context & Mandate** | Overview of real world situations prevalent in organizations implementing AI based on my experience. Sets context for all sections below | [View PDF](<./pdfs/00 -  Project Context & Mandate.pdf>) |
 | **01 · Business Discovery** | Stakeholder interviews, user needs, problem definition, impact assessment & prioritization and business alignment. | [View PDF](<./pdfs/01_Business_Discovery(1).pdf>) |
-| **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | [View PDF](<./pdfs/02_Process_Analysis_Baseline(1).pdf>) |
-| **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | [View PDF](<./pdfs/03_Opportunity_Assessment_Visual(1).pdf>) |
-| **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | [View PDF](<./pdfs/04_Product_and_Solution_Definition_Revised(1).pdf>) |
-| **05 · Architecture & Guardrails** | Technology trade-offs, integrations, data access, human oversight, and risk controls. | [View PDF](<./pdfs/05_Architecture_Guardrails(1).pdf>) |
+| **02 · Process Analysis & Baseline** | Current workflows, handoffs, bottlenecks, workload, and baseline measurement. | [View PDF](<./pdfs/02_Process_Analysis_Baseline_Clean_Final.pdf>) |
+| **03 · Opportunity Assessment** | AI versus conventional automation, business cases, costs, feasibility, data readiness, and prioritization. | [View PDF](<./pdfs/03_Opportunity_Assessment_Visual.pdf>) |
+| **04 · Product & Solution Definition** | Product requirements, future-state workflows, user stories, acceptance criteria, and delivery plans. | [View PDF](<./pdfs/04_Product_and_Solution_Definition_Revised.pdf>) |
+| **05 · Architecture & Guardrails** | Technology trade-offs, integrations, data access, human oversight, and risk controls. | [View PDF](<./05_Architecture_Guardrails.pdf>) |
 | **06 · Workflow Implementation** | Make workflows, prompts, structured outputs, routing, integrations, and exception handling. | In preparation |
-| **07 · Evaluation & Testing** | Model and prompt comparisons, quality benchmarks, cost and latency, regression tests, and failure analysis. | [View PDF](<./pdfs/07_Evaluation_Testing(1).pdf>)  |
-| **08 · Deployment & Operations** | Version control, release decisions, monitoring, incident recovery, maintenance, and operating costs. |[View PDF](<./pdfs/08_Deployment_and_Operations(1).pdf>) |
-| **09 · Adoption & Enablement** | User guides, reviewer playbooks, training, feedback, ownership, and handover. | [View PDF](<./pdfs/09_Adoption_Enablement_Playbook(2).pdf>)  |
-| **10 · Business Outcomes & Improvement** | Measured results, adoption, benefits, lessons learned, and the next investment priorities. | [View PDF](<./pdfs/10_Business_Outcomes_and_Improvement(1).pdf>) |
+| **07 · Evaluation & Testing** | Model and prompt comparisons, quality benchmarks, cost and latency, regression tests, and failure analysis. | [View PDF](<./pdfs/07_Evaluation_Testing.pdf>)  |
+| **08 · Deployment & Operations** | Version control, release decisions, monitoring, incident recovery, maintenance, and operating costs. |[View PDF](<./pdfs/08_Deployment_and_Operations.pdf>) |
+| **09 · Adoption & Enablement** | User guides, reviewer playbooks, training, feedback, ownership, and handover. | [View PDF](<./pdfs/09_Adoption_Enablement_Playbook.pdf>)  |
+| **10 · Business Outcomes & Improvement** | Measured results, adoption, benefits, lessons learned, and the next investment priorities. | [View PDF](<./pdfs/10_Business_Outcomes_and_Improvement.pdf>) |
 
 ![Enterprise AI delivery lifecycle and my value proposition](images/AI_delivery.png)
